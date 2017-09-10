@@ -1,0 +1,2 @@
+在Myjsp中不能调用html中的题目个数的参数
+在Newjsp中能调用html中的题目个数的参数
